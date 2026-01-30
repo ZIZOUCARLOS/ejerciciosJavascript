@@ -20,9 +20,9 @@ function suma (a, b ){
  console.log(resulatdos_de_parametros); 
 
  function pesicola (m,n,z){
-    return m + n 
+    return m + n + z
  }
- let re = pesicola( 10, 10)
+ let re = pesicola( 10,10, 10)
  console.log(re)
  
  function multiplica(z, y){
