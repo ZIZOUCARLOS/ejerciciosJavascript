@@ -1,7 +1,7 @@
-let a = 5;
-a = a + 5;
+let a = 6;
+//a = a + 9;
 
 //Operadores de asignacion 
 
-a +=5;
+a +=20;
 console.log(a);
