@@ -17,10 +17,10 @@
 // }
 
 
-let GOKU = 19
+let GOKU = 17
 
 if (GOKU > 18 ){
-    console.log('Despues de los 19 años ya esta viejo para la pelea')
+    console.log('Despues de los años ya esta viejo para la pelea')
 
 } else if ( GOKU > 17 ){
     console.log(' Esta activo como Vegueta');
