@@ -1,3 +1,7 @@
+// Un array guarda una lista ordenada de elementos.
+//Regla mental rápida = ¿Necesito una lista? → Array
+
+
 let animales = ["chanchito", "caballito"]
 console.log(animales)
 // Para llamar a un array se llama desde el orden donde se encuentra

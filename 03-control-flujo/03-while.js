@@ -4,7 +4,7 @@
 // si la condicion se cumple entonces se ejecuta el codigo dentro del ()
 // while(condicion){}
 // la codicion siempre debe de estar fuera del if porque si no se entra en u n lop infinito en este casao el i++
-
+// En JavaScript, el % no significa “porcentaje”, significa módulo, y lo que hace es devolver el residuo (lo que sobra) de una división.
 
 
 let i = 0;
@@ -13,6 +13,7 @@ while(i < 10){
         console.log('numero par', i );
         
     }
+    //console.log(i)
     i++
 }
 console.log('fuera del while')

@@ -1,5 +1,5 @@
 /* Es un tipo de referencia */
-
+//¿Necesito describir algo? → Objeto
 //personaje de TV
 
 let nombre = "Goku";
