@@ -13,4 +13,4 @@ console.log(typeof nula);
 
 
 //Tecla shilf y alt + tecla hacia abajo se puede supricar la ultima linea de codigo
-//typeof = palabra reservada, significa que no vas a poder crar variables que se lamen typeof, pregunta el tipo que tiene la varibla 
+//typeof = palabra reservada, significa que no vas a poder crar variables que se llamen typeof, pregunta el tipo de dato que tiene la variable
